@@ -265,7 +265,7 @@ body {
 
 .button2 {
   display: flex;
-  padding: 26px 32px 12px;
+  padding-left: 40px;
   background-color: #9fa324;
   -webkit-text-fill-color: white;
   font-size: 22px;
@@ -278,6 +278,7 @@ body {
   border: 2px solid black;
   font-family: Urbanist;
   cursor: pointer;
+  align-items: center;
 }
 
 .days {
